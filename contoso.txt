@@ -1,0 +1,25 @@
+problem defination:
+contoso is the one of the multinational company. 
+They have 12 Offices all over the world.they require a one website to store
+the customers data.such as the customers name, customers id,customers email,
+customers contact number,customers address etc .
+to access these data all of them 12 offices they 
+requied one public google cloud platfrom.so we have to create one website.Also the jason file to
+store the customers information we have to upload these information. 
+
+
+
+functional requirement:
+welcome page
+login page(unic emailid,pass)for the employee
+sing in, sign up
+webfrom to store customer details
+add customer ,remove customer, update customer 
+sign out 
+
+
+Non functional requirement:
+accurasy
+performane
+efficiency
+relability
